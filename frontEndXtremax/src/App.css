@@ -1,0 +1,248 @@
+.App {
+  background-color: #313541;
+  min-height: 100vh
+}
+.flex-row {
+  display: flex!important;
+}
+
+/* component NavbarSide */
+
+.navbar-side {
+  min-height: 100vh;
+  width: 100px;
+  background-color: #313541;
+}
+button img {
+  -webkit-filter: opacity(.1) drop-shadow(0 0 0 white);
+  filter: opacity(.1) drop-shadow(0 0 0 white);
+}
+button:focus img {
+  -webkit-filter: opacity(.9) drop-shadow(0 0 0 white);
+  filter: opacity(.9) drop-shadow(0 0 0 white);
+}
+.icon-bar {
+  background-color: #313541;
+  display: flex;
+  flex-direction: column;
+  border-style: none;
+  outline: none;
+  border-bottom: 0.5px solid #303420;
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
+  font-size: 10pt;
+  line-height: 12pt;
+  padding: 0px !important;
+}
+.icon-bar:focus {
+  height: 100px;
+  width: 100px;
+  background-color: #72cdd2;
+}
+.text-button {
+  color: white;
+  margin: 3px;
+  -webkit-filter: opacity(.1) drop-shadow(0 0 0 white);
+  filter: opacity(.1) drop-shadow(0 0 0 white);
+  text-decoration-color: #313541;
+}
+button:focus .text-button {
+  -webkit-filter: opacity(.9) drop-shadow(0 0 0 white);
+  filter: opacity(.9) drop-shadow(0 0 0 white);
+}
+.toggle-box {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.icon {
+  width: 25px
+}
+
+/* page Browse */
+
+.browse {
+    width: 100%;
+    display: flex;
+}
+.title-map-box {
+  display: flex;
+  background-color: white;
+  width: 100%;
+  height:100px;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.title-map {
+  font: 24px "Roboto", medium;
+  color: #000000;
+  padding: 30px;
+  font-weight: bold;
+}
+.map-page {
+  width: 100%;
+}
+.maps-content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.icon-grup {
+  display: flex;
+  width: 60px;
+  margin-right: 20px;
+  justify-content: space-between;
+}
+.icon-header {
+  color: grey;
+  font-size: large;
+}
+/* compnent subNavbarSide */
+
+.sub-navbar-side {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  width: 300px;
+  background-color: #282c37;
+  
+}
+.dropdown-box {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-bottom-width: 1px;
+  border-color: #1c1f28;
+  border-bottom-style: solid;
+}
+.box {
+  margin-left: 15px;
+  margin-right: 15px;
+  border-bottom-width: 1px;
+  border-color: #1c1f28;
+  border-bottom-style: solid;
+}
+.dropdown {
+  position: relative;
+  display: flex;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1c1f28;
+  width: 100%;
+  background-color: #282c37;
+  font: 14px "Roboto", medium;
+  color: #5b6b73;
+  padding: 5px;
+}
+.title-content-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 10px;
+  padding: 0px !important;
+  margin-bottom: 0px;
+  border-style: none;
+  outline: none;
+  height: 100%;
+  background-color: #282c37;
+}
+.title-name {
+  background-color: #1c1f28;
+  margin: 10px;
+}
+.icon-arrow {
+  color: white;
+  font-size: 14px;
+}
+.text-name {
+  font: 12px "Roboto", medium;
+  color: #77af2d;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 0px;;
+}
+.text-content {
+  color: white;
+  font: 12px "Roboto", medium;
+  padding-left: 20px;
+}
+.text-subcontent {
+  color: gray;
+  font: 12px "Roboto", medium;
+  padding-left: 30px;
+  margin: 5px, 5px, 5px, 10px !important
+}
+.content-box {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-bottom-width: 1px;
+  border-color: #1c1f28;
+  justify-content: center;
+  border-bottom-style: solid;
+}
+/* component card */
+.card {
+  right: 0px;
+  top: 100px;
+  bottom:0px;
+  width: 275px;
+  background-color: #313541;
+  font-size: 10px;
+  position: absolute ;
+}
+.image {
+  width: 275px;
+  background-position: center center;
+  height: 154px;
+}
+.title-card {
+  background-color: #72cdd2;
+}
+.text-title-card {
+  font: 20px "Roboto", medium;
+  color: white;
+  padding: 10px;
+  margin: 0px;
+}
+.text-desc {
+  font: 12px "Roboto", medium;
+  color: white;
+  margin: 10px
+}
+.footer-box {
+margin-top: 15px;
+margin-left: 10px;
+}
+.sub-footer-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 10px
+}
+.fa-map-marker-alt{
+  color: aqua;
+  font-size: larger;
+}
+.fa-globe-americas {
+  font-size: larger;
+  color: #93d72e;
+}
+.footer-text {
+  font: 12px "Roboto", medium;
+  color: white;
+  margin: 10px
+}
+/* component map */
+.label-point {
+  height: 10px;
+  width: 100px;
+  background-color: white;
+}

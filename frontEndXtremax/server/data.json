@@ -1,0 +1,125 @@
+{ "data":
+    [
+        {
+            "latitude": 1.286920,
+            "longitude": 103.854570,
+            "place_name": "Merlion",
+            "sub_name": "The Merlion is the national personification of Singapore.",
+            "place_description": "Its name combines 'mer' meaning the sea and 'lion'. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means 'sea town' in Javanese. The lion head represents Singapore's original name—Singapura—meaning 'lion city' or 'kota singa'.",
+    
+            "address": "10 Bayfront Avenue, Singapore",
+            "tags": [
+                "ArtScience Museum",
+                "Marina Bay Sands Skypark",
+                "Double Helix Bridge"
+            ],
+            "image": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+            "url": "http://www.marinabaysands.com/",
+            "flag": false
+        },
+        {
+            "latitude": 1.287466,
+            "longitude": 103.851424,
+            "place_name": "Asian Civilisations Museum",
+            "sub_name": "Asian Civilisations Museum",
+            "place_description": "-",
+            "address": "-",
+            "tags": [
+                "Asian Civilisations Museum",
+                "Asian Civilisations Museum",
+                "Asian Civilisations Museum"
+            ],
+            "image": "https://scholarship-positions.com/wp-content/uploads/2018/10/Asian-Civilisations-Museum-1024x576.jpg",
+            "url": "-",
+            "flag": false
+        },
+        {
+            "latitude": 1.290555,
+            "longitude": 103.846188,
+            "place_name": "Clarke Quay",
+            "sub_name": "-",
+            "place_description": "-",
+            "address": "-",
+            "tags": [
+                "Clarke Quay",
+                "Clarke Quay",
+                "Clarke Quay"
+            ],
+            "image": "https://youimg1.tripcdn.com/target/100f1f000001gqati8DA7_C_760_506.jpg?proc=source%2ftrip",
+            "url": "-",
+            "flag": false
+        },
+        {
+            "latitude": 1.295526,
+            "longitude": 103.845331,
+            "place_name": "Fort Canning Park",
+            "sub_name": "-",
+            "place_description": "-",
+            "address": "-",
+            "tags": [],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fort_Canning_Park_sign%2C_Singapore_-_20110506.jpg/800px-Fort_Canning_Park_sign%2C_Singapore_-_20110506.jpg",
+            "url": "-",
+            "flag": false
+        },
+        {
+            "latitude": 1.302279,
+            "longitude": 103.837399,
+            "place_name": "Orchard Road",
+            "sub_name": "-",
+            "place_description": "-",
+            "address": "-",
+            "tags": [],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Presenting..._the_real_ION_%288200217734%29.jpg",
+            "url": "-",
+            "flag": false
+        },
+        {
+            "latitude": 1.289332,
+            "longitude": 103.863152,
+            "place_name": "Singapore Flyer",
+            "sub_name": "-",
+            "place_description": "-",
+            "address": "-",
+            "tags": [],
+            "image": "https://www.visitsingapore.com/id_id/see-do-singapore/recreation-leisure/viewpoints/singapore-flyer/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg",
+            "url": "-",
+            "flag": false
+        },
+        {
+            "latitude": 1.283099,
+            "longitude": 103.860295,
+            "place_name": "Marina Bay Sands",
+            "sub_name": "-",
+            "place_description": "-",
+            "address": "-",
+            "tags": [],
+            "image": "https://akcdn.detik.net.id/community/media/visual/2020/01/07/d4d2dc61-40cd-4207-aad9-fb62fd9fd52e_169.jpeg?w=780&q=80",
+            "url": "-",
+            "flag": false
+        },
+        {
+            "latitude": 1.281790,
+            "longitude": 103.863954,
+            "place_name": "Gardens By The Bay",
+            "sub_name": "-",
+            "place_description": "-",
+            "address": "-",
+            "tags": [],
+            "url": "-",
+            "image": "https://www.hippopass.com/singapore/wp-content/uploads/2017/11/gardens-by-the-bay-01.jpg",
+            "flag": false
+        },
+        {
+            "latitude": 1.284193,
+            "longitude": 103.843362,
+            "place_name": "Chinatown",
+            "sub_name": "-",
+            "place_description": "-",
+            "address": "-",
+            "tags": [],
+            "image": "https://www.visitsingapore.com/id_id/see-do-singapore/places-to-see/chinatown/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg",
+            "url": "-",
+            "flag": false
+        }
+    ]
+}
